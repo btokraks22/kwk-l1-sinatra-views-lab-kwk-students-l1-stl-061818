@@ -5,5 +5,6 @@ class App < Sinatra::Base
 	end
 get '/Hello' do
   "Hello World"
-end
+  end
+
 end
